@@ -1,0 +1,6 @@
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.exe.config
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.exe
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.pdb
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.csprojResolveAssemblyReference.cache
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.exe
+D:\Visual Studio\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.pdb

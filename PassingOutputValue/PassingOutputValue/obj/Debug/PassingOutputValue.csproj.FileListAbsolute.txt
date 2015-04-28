@@ -1,0 +1,5 @@
+D:\Visual Studio\PassingOutputValue\PassingOutputValue\bin\Debug\PassingOutputValue.exe.config
+D:\Visual Studio\PassingOutputValue\PassingOutputValue\bin\Debug\PassingOutputValue.exe
+D:\Visual Studio\PassingOutputValue\PassingOutputValue\bin\Debug\PassingOutputValue.pdb
+D:\Visual Studio\PassingOutputValue\PassingOutputValue\obj\Debug\PassingOutputValue.exe
+D:\Visual Studio\PassingOutputValue\PassingOutputValue\obj\Debug\PassingOutputValue.pdb

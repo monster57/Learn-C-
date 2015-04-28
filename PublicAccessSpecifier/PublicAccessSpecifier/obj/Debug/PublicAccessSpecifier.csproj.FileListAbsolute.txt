@@ -1,0 +1,6 @@
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe.config
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.pdb
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.csprojResolveAssemblyReference.cache
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.exe
+D:\Visual Studio\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.pdb

@@ -1,0 +1,1 @@
+D:\Visual Studio\win_calc\win_calc\bin\Debug\win_calc.exe.config

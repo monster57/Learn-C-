@@ -1,0 +1,5 @@
+D:\Visual Studio\FactorialApplication\FactorialApplication\bin\Debug\FactorialApplication.exe.config
+D:\Visual Studio\FactorialApplication\FactorialApplication\bin\Debug\FactorialApplication.exe
+D:\Visual Studio\FactorialApplication\FactorialApplication\bin\Debug\FactorialApplication.pdb
+D:\Visual Studio\FactorialApplication\FactorialApplication\obj\Debug\FactorialApplication.exe
+D:\Visual Studio\FactorialApplication\FactorialApplication\obj\Debug\FactorialApplication.pdb

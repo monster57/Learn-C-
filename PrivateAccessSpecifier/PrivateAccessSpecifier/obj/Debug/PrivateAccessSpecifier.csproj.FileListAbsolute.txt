@@ -1,0 +1,6 @@
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.exe.config
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.exe
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.pdb
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\obj\Debug\PrivateAccessSpecifier.csprojResolveAssemblyReference.cache
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\obj\Debug\PrivateAccessSpecifier.exe
+D:\Visual Studio\PrivateAccessSpecifier\PrivateAccessSpecifier\obj\Debug\PrivateAccessSpecifier.pdb

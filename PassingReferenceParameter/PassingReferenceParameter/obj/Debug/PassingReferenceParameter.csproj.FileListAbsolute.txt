@@ -1,0 +1,5 @@
+D:\Visual Studio\PassingReferenceParameter\PassingReferenceParameter\bin\Debug\PassingReferenceParameter.exe.config
+D:\Visual Studio\PassingReferenceParameter\PassingReferenceParameter\bin\Debug\PassingReferenceParameter.exe
+D:\Visual Studio\PassingReferenceParameter\PassingReferenceParameter\bin\Debug\PassingReferenceParameter.pdb
+D:\Visual Studio\PassingReferenceParameter\PassingReferenceParameter\obj\Debug\PassingReferenceParameter.exe
+D:\Visual Studio\PassingReferenceParameter\PassingReferenceParameter\obj\Debug\PassingReferenceParameter.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\bin\Debug\PassingValueParameters.exe.config
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\bin\Debug\PassingValueParameters.exe
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\bin\Debug\PassingValueParameters.pdb
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\obj\Debug\PassingValueParameters.csprojResolveAssemblyReference.cache
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\obj\Debug\PassingValueParameters.exe
+D:\Visual Studio\PassingValueParameters\PassingValueParameters\obj\Debug\PassingValueParameters.pdb

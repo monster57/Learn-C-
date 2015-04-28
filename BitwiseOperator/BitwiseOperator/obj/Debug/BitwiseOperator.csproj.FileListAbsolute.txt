@@ -1,0 +1,5 @@
+D:\Visual Studio\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+D:\Visual Studio\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+D:\Visual Studio\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+D:\Visual Studio\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+D:\Visual Studio\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.pdb
